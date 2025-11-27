@@ -9,7 +9,7 @@ terraform-universal-infra/
 ├── scripts/            # Helper scripts (linting, validate, fmt)
 └── README.md
 
-Key Features
+# Key Features
 
 Centralized Infrastructure-as-Code repository
 
@@ -24,7 +24,7 @@ Environment-based structure (dev / qa / prod)
 Scalable and cloud-agnostic design
 
 Getting Started
-Prerequisites
+# Prerequisites
 
 Terraform CLI
 
@@ -32,7 +32,7 @@ Cloud provider CLI (Azure CLI, AWS CLI, etc.)
 
 GitHub/GitLab runner or DevOps pipeline agent
 
-Initialization
+# Initialization
 terraform init
 terraform plan
 terraform apply
